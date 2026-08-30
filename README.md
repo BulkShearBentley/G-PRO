@@ -9,4 +9,4 @@ How to go about choosing the fins
 Factor of safety goal, center of pressure goal?
 
 Thickness and density of new fins
-New bounds?
+New bounds? (Span min of 4.8 in)
