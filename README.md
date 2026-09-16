@@ -12,3 +12,5 @@ Thickness and density of new fins
 New bounds? (Span min of 4.8 in)
 
 Need to adjust G-PRO to take sweptback fins for the sustainer
+
+Need to adjust to take two sets of CP min and max
