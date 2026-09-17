@@ -14,3 +14,8 @@ New bounds? (Span min of 4.8 in)
 Need to adjust G-PRO to take sweptback fins for the sustainer
 
 Need to adjust to take two sets of CP min and max
+
+Currently takes 10 inputs
+The tip and root chord, semi-span, sweep angle, and cp of the sustainer
+The tip and root chord, semi-span of the booster
+Total rocket Fos and cp
